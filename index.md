@@ -3,10 +3,10 @@
 ### Überschrift 3
 #### Überschrift 4
 
-Dieser Text ist **fett**<p>
-Dieser Text ist *italic*<p>
-Dieser Text ist ~~durchgestrichen~~
-So schreibt man `Code ()`
+Dieser Text ist **fett**<br>
+Dieser Text ist *italic*<br>
+Dieser Text ist ~~durchgestrichen~~<br>
+So schreibt man `Code ()`<br>
 Dies ist ein [link](http://www.trello.com)
 
 ---
