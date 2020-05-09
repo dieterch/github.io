@@ -18,7 +18,7 @@ Ein CodeBlock
 >Ein Zitat
 >und noch eins
 
-Weill diese Zeile direkt vor dieser liste steht
+Weil diese Zeile direkt vor dieser liste steht
 - Werden diese Punkte nicht
 - als Liste formatiert
 
