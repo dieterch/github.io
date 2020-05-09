@@ -8,7 +8,9 @@ Dieser Text ist *italic*
 Dieser Text ist ~~durchgestrichen~~
 So schreibt man `Code ()`
 Dies ist ein [link](http://www.trello.com)
+
 ---
+
 ```
 Das ist ein Paragraph, z.b.:
 Ein CodeBlock
